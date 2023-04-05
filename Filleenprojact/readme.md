@@ -1,0 +1,1 @@
+![mermaid diagram](./mermaid.svg)
